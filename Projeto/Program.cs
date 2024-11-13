@@ -27,6 +27,10 @@ class Program{
             Console.WriteLine(reader["emissor"]);
         }
 
+
+        Inserir Inse = new Inserir();
+
+        Inse.inserir("algoo");
         //connection.close();
     }
 
