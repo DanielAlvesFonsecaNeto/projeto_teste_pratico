@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IYwvbJ6E5V0=",
+  "dgSpecHash": "c2nHF/Cmgyg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fiscal.io\\Desktop\\projeto\\Projeto\\Projeto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Fiscal.io\\Desktop\\projeto\\projeto_teste_pratico\\Projeto\\Projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fiscal.io\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fiscal.io\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fiscal.io\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
